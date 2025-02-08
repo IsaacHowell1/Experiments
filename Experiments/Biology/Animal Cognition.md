@@ -2,7 +2,7 @@
 
 **A challenge to get people thinking about animal intelligence** - Intelligence tests for animals.
 
-Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-14 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2025-02-08 by Isaac Howell (ih393@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -39,6 +39,7 @@ During the experiment:
 
 1. What is intelligence?
 2. How do we test human intelligence? - IQ tests (more info below), school exams
+Kids often bring up IQ as their 'go to' for intelligence in humans. Acknowledging the issues with IQ is important but often challenging to explain, and analogies are often useful. Describe IQ as analagous to a 100m race - it can show something but also is far from comprehensive when representing a person's fitness ('is the best football/rugby/basketball player the one with the best 100m time?'). Encourage the idea intelligence is multifaceted even within humans 
 
 3. Obviously we can't give animals these tests so what kind of tests might we use to test their intelligence?  - Mazes, puzzles, memory tests
 
@@ -51,9 +52,11 @@ Congratulate for effort and talk about why using gravel worked, or if they manag
 6. What challenges are there with testing animal intelligence? 
 - Motivation - use food instead of balloon
 - Ambiguity - we think this shows understanding of displacement but can't be certain of what an animal's thought process is so this is a bit of an assumption. - Complex patterns of behaviour can also be instinctive rather than require cognition as shown in fixed action patterns e.g. grey geese scoop eggs up into their nest if they roll away but will also scoop up anything egg-like in their vicinity - don't know why they're doing it just doing the action. Also, there can be other underlying reasons for behaviour, for example Clever Hans was a horse who appeared to be able to perform simple addition but was just interpreting subtle unintentional body language cues from a trainer to see what the right answer was
-7. How else can we estimate animal intelligence? - Cranium size - good to compare magpie and pigeon skulls here and similar sized birds but magpie's cranium is significantly bigger. Magpies are very intelligent, indicated by tool use and good spatial memory. Large brains use up a lot of energy so animals will only have big brains if they need them, making it a fairly useful indicator.
+7. How else can we estimate animal intelligence? - Cranium size - good to compare magpie and pigeon skulls here and similar sized birds but magpie's cranium is significantly bigger. Magpies are very intelligent, indicated by tool use and good spatial memory. Large brains use up a lot of energy so animals will only have big brains if they need them, making it a fairly useful indicator. This can also be linked to the magpie's more forward facing eye sockets - more conducive to tool use and manipulating objects in front of their face. Older kids/ more interested kids could be asked what the magpie sacrifices/pigeon gains from their eye positiion.
 
 If they seem interested, you can go into more detail about other animal intelligence tests:
+
+- An important theme to explore with older kids is the trade offs that come with intelligence and larger brains. What sort of animals need to be intelligent? Are Jellyfish succesful in spite of lacking a brain? This ties into the different types of intelligence tested below - which types would be useful and when?
 
 - Physical intelligence - this is the kind of test we have just done. It tests the animal's 'knowledge' of the physical laws of the universe e.g. gravity, water displacement etc. It also tests whether they understand the properties of objects, in particular whether they can use them as tools.
 
@@ -145,3 +148,5 @@ Mop up any spilt water as soon as possible. Call first aider in the event of an 
 **Check 1**: 2023-02-05 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk), **Check 2**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk)
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**:2025-02-08 - Isaac Howell (ih393@cam.ac.uk)
